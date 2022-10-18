@@ -1,3 +1,2 @@
-welcome to the git
-welcome back 
+welcome to the git 
 good evening
